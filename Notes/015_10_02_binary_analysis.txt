@@ -1,0 +1,12 @@
+We discussed file types (mainly executables) and file headers.
+http://www.garykessler.net/library/file_sigs.html
+http://stackoverflow.com/questions/1993390/static-linking-vs-dynamic-linking
+https://mypage.iu.edu/~rushvyas/tv/Crestron_analysis_jpg_extraction.docx
+
+We discussed and used the following commands:
+https://en.wikipedia.org/wiki/File_(command)
+http://www.thegeekstuff.com/2010/11/strings-command-examples/
+https://sourceware.org/binutils/docs/binutils/readelf.html
+http://linux.die.net/man/1/strace
+http://linux.die.net/man/1/ltrace
+https://sourceware.org/binutils/docs-2.23/binutils/objdump.html
